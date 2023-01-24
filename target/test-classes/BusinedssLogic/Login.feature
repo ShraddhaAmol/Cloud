@@ -6,3 +6,4 @@ Background: User Successfully loggerd in
  Scenario:
  When user cancles login window
  Then user navigate to Login window and click on My Profile
+ Then verify login process
